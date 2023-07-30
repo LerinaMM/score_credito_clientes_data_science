@@ -1,6 +1,4 @@
-![image](https://github.com/LerinaMM/score_credito_clientes_data_science/assets/83770121/2d926c8c-954c-438f-bd06-45c9b71abd5e)
-
-
+![image](https://github.com/LerinaMM/score_credito_clientes_data_science/assets/83770121/60eb7250-1f67-4e56-bfe0-86805896bfe2)
 # ✅ Score Crédito Clientes
 
 Projeto foi desenvolvido para aprendizado através da Jornada Python da Hashtag Treinamentos
