@@ -1,5 +1,4 @@
-![image](https://github.com/LerinaMM/score_credito_clientes_data_science/assets/83770121/c16ebb8e-be1a-4183-8de0-9e9b532305cd)
-
+![image](https://github.com/LerinaMM/score_credito_clientes_data_science/assets/83770121/fdd2886a-5976-4785-9d24-6ec4d59d3236)
 
 # ✅ Score Crédito Clientes
 
