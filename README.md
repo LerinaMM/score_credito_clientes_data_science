@@ -1,4 +1,4 @@
-# ✅ Score créditos clientes
+# ✅ Score Crédito Clientes
 
 Projeto foi desenvolvido para aprendizado através da Jornada Python da Hashtag Treinamentos
 
