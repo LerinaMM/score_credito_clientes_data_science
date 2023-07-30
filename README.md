@@ -1,3 +1,5 @@
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gruporecovery.com%2Fblog-como-aumentar-score%2F&psig=AOvVaw1uXcCHGC1JrFGmOxkQ7pKJ&ust=1690762317256000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiVvMyStYADFQAAAAAdAAAAABAE
+
 # ✅ Score Crédito Clientes
 
 Projeto foi desenvolvido para aprendizado através da Jornada Python da Hashtag Treinamentos
