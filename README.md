@@ -1,4 +1,5 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gruporecovery.com%2Fblog-como-aumentar-score%2F&psig=AOvVaw1uXcCHGC1JrFGmOxkQ7pKJ&ust=1690762317256000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiVvMyStYADFQAAAAAdAAAAABAE
+![image](https://github.com/LerinaMM/score_credito_clientes_data_science/assets/83770121/c16ebb8e-be1a-4183-8de0-9e9b532305cd)
+
 
 # ✅ Score Crédito Clientes
 
