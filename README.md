@@ -23,7 +23,6 @@ O K-nearest neighbors (KNN) é um modelo de aprendizado de máquina não supervi
 
 O KNN é um modelo relativamente simples de entender e implementar, e é relativamente robusto ao overfitting. No entanto, ele pode ser lento para treinar e pode não ser tão preciso quanto outros modelos para grandes conjuntos de dados.
 
-
 # 💪 Fonte
 
 Base de dados utilizada - (https://drive.google.com/drive/folders/1FbDqVq4XLvU85VBlVIMJ73p9oOu6u2-J)
@@ -32,8 +31,32 @@ Base de dados utilizada - (https://drive.google.com/drive/folders/1FbDqVq4XLvU85
 
 | Column     | Description              |
 |------------|--------------------------|
-| `Date` | Data do dia da negociação da ação |
-| `Open` | Preço de abertura da negociação. |
-| `High` | Maior preço da ação naquele dia. |
-| `Low` | Menor preço da ação naquele dia. |
-| `Volume` | Quantidade de ações comercializadas naquele dia. |
+| `mes` | mes de realização do cadastro |
+| `idade` | Idade do indivíduo. |
+| `profissao` | Profissão do individuo. |
+| `salario_anual` | valor total ano do salario do empregado. |
+| `num_contas` | Montante de contas que o individuo possui. |
+| `num_cartoes` | Numero de cartões de credito que o indivíduo possui |
+| `juros_emprestimo` | Juros aplicados caso o individuo tenha solicitado emprestimo. |
+| `num_emprestimos` | Quantidade de emprestimos que o individuo possui. |
+| `dias_atraso` | Dias de atraso de pagamento de dívidas. |
+| `num_pagamentos_atrasados` | quantidade de pagamentos que estão em atraso que o individuo possui. |
+| `num_verificacoes_credito` | numero de verificacoes para a solicitação de credito. |
+| `mix_credito` | . |
+| `divida_total` | Valor do montante da dívida que o indivíduo possui. |
+| `taxa_uso_credito` | Taxa do credito que o individuo esta pagando. |
+| `idade_historico_credito` | Tempo na qual foi solicitado o credito. |
+| `investimento_mensal ` | . |
+| `comportamento_pagamento` | Taxa do credito que o individuo esta pagando. |
+| `saldo_final_mes` | Saldo da dívida no final do mês. |
+| `score_credito` | Classificação do individuo relativo ao score de credito, se seria bom, ruim e normal. |
+| `emprestimo_carro` | Se o individuo possui emprestimo de carro. |
+| `emprestimo_casa` | Se o individuo possui emprestimo para a compra de casa. |
+| `emprestimo_pessoal` | Se o individuo possui emprestimo pessoal. |
+| `emprestimo_credito` | Se o individuo possui emprestimo de credito para outros fins. |
+| `emprestimo_estudantil` | Se o individuo possui emprestimo para pagamento de estudo. |
+
+# 🎯 Objetivo
+
+Elaborar um modelo de Machine Learning para a concessão de credito. Encontrar o modelo com melhor desempenho e aplicar o modelo escolhido com novos dados de clientes
+
